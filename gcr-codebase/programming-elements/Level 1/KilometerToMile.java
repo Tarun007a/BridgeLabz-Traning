@@ -11,6 +11,7 @@ public class KilometerToMile{
 		// calculating the distance in miles
 		double miles = kilometers * 0.621371;
 		
+		// printing results
 		System.out.print("The total miles is " + miles + " mile for the given "+ kilometers + "km");
 	}
 }

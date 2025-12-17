@@ -10,7 +10,6 @@ public class TotalPrice{
 		System.out.print("Enter quantity : ");
 		int quantity = sc.nextInt();
 		
-		
 		// calculating total price 
 		double totalPrice = unitPrice * quantity;
 	

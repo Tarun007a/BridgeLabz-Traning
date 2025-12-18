@@ -6,17 +6,19 @@ public class Multiples{
         Scanner sc = new Scanner(System.in);
 		System.out.print("Enter number : ");
         int number = sc.nextInt();
+		int i = 99;
 
         // Check input
         if (number <= 0 || number >= 100) {
 			System.out.println("Enter number between 1 to 100");
 			return;
 		}
-		// using for loop and printing multiples
-		for (int i = 99; i >= 1; i--) {
+		// using while loop and printing multiples
+		while(i >= 1) {
             if (i % number == 0) {
                 System.out.println(i);
             }
+			i--;
         }
 		
 		sc.close();

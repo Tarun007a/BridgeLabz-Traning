@@ -1,12 +1,13 @@
 import java.util.Scanner;
 
-public class FactorialUsingForLoop{
+public class FactorialUsingWhileLoop{
 	public static void main(String[] args){
 		// creating scanner object,  taking input and initializing variables
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter number : ");
 		int n = sc.nextInt();
 		int factorial = 1;
+		int num = 2;
 		
 		// Checking input
 		if(n <= 0){
@@ -14,8 +15,9 @@ public class FactorialUsingForLoop{
 			return;
 		}
 		// calculating the factorial
-		for(int i = 2; i <= n; i++){
-			factorial *= i;
+		while(num <= n){
+			factorial *= num;
+			num++;
 		}
 		
 		// printing the results

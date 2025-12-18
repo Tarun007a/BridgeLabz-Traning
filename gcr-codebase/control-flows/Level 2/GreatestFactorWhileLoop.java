@@ -9,7 +9,7 @@ public class GreatestFactorForLoop{
 		int greatestFactor = 1;
 		int i = number-1;
 
-        // using for loop to print result
+        // using while loop to print result
         while(i > 1){
 			if(number%i == 0){
 				greatestFactor = i;

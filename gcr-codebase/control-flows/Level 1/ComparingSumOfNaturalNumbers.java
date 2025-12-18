@@ -9,6 +9,7 @@ public class SumOfNumbers{
 		
 		if(n <= 0){
 			System.out.println("The number entered is not a natural number");
+			return;
 		}
 		
 		// using formula

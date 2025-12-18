@@ -25,5 +25,5 @@ public class LeapYearIf {
         else {
             System.out.println("Enter year more than equal to 1582");
         }
-     }
+    }
 }

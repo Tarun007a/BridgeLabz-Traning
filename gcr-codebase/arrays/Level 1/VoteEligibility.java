@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DayOfWeek {
+public class VoteEligibility {
     public static void main(String[] args) {
 		// Creating Scanner Object and initializing array
         Scanner sc = new Scanner(System.in);

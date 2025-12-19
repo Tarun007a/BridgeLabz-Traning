@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CheckNumbers{
+public class MeanHeight{
     public static void main(String[] args) {
 		// Creating Scanner Object and initializing array
         Scanner sc = new Scanner(System.in);

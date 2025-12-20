@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class SpringSeason{
 	private static void  checkSeason(int month, int day){
 		// checking weather it is spring season or not and printing result
-		if((month == 3 && day >= 20 && day <= 31) || (month == 4 && day >= 1 && day <= 20)){
+		if(month == 4 || month == 5 || (month == 3 && day >= 20 && day <= 31) || (month == 6 && day >= 1 && day <= 20)){
 			System.out.println("Its a Spring Season");
 		}
 		else{

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Rounds{
 	// return the number of rounds required and taking input sides of triangle
 	public static double findRounds(double s1, double s2, double s3){
-		return 5/(s1 + s2 + s3);
+		return 5000/(s1 + s2 + s3);
 	}
 	
 	public static void main(String[] args){

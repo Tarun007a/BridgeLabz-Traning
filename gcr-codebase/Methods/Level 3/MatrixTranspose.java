@@ -1,4 +1,4 @@
-public class MatrixOperations{
+public class MatrixTranspose{
     // creates random matrix
     public static int[][] getRandomMatrix(int row, int col){
         int[][] result = new int[row][col];

@@ -70,4 +70,16 @@ public class NumberChecker{
         }
         return new int[]{min, secondMin};
     }
+	
+	public static void main(String[] args){
+		int n = 123;
+		System.out.println(findCount(n));
+		int[] digits = getAsArray(n);
+		System.out.println(isDuck(digits));
+		System.out.println(isArmstrong(n, digits));
+		int[] largest = findLargestAndSecoundLargest(digits);
+		int[] smallest = findSmallestAndSecondSmallest(digits);
+		System.out.println(largest[0] + " " + largest[1]);
+		System.out.println(smallest[0] + " " + smallest[1]);
+	}
 }

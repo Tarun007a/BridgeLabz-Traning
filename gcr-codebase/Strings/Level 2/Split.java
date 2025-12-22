@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Length{
+public class Split{
 	// method to find length of string
 	private static int getLength(String s){
 		int idx = 0;

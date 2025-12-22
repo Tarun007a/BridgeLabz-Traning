@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArgumentException{
+public class ArrayIndexException{
 	// method to generate array index out of bound
 	private static void generateException(String[] names) throws ArrayIndexOutOfBoundsException{
 		String str = names[names.length];

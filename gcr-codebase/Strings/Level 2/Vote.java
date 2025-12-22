@@ -1,5 +1,5 @@
 public class Vote{
-	// 
+	// Generate random ages
 	private static int[] generateRandom(int n){
 		int[] arr = new int[n];
 		for(int i = 0; i < n; i++) arr[i] = 10 + (int)(Math.random() * 90);

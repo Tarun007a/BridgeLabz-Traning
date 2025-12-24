@@ -14,10 +14,10 @@ public class DateArithmatic{
 		LocalDate date = LocalDate.parse(inputDate, formatter);
 		
 		// performing the specified operations
-		date.plusDays(7);
-		date.plusMonths(1);	
-		date.plusYears(2);
-		date.minusWeeks(3);
+		date = date.plusDays(7);
+		date = date.plusMonths(1);	
+		date = date.plusYears(2);
+		date = date.minusWeeks(3);
 		
 		// printing the result
 		System.out.println("Date after performing operations is " + date);

@@ -18,7 +18,7 @@ public class LcmAndGcd{
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter two number : ");
 		int n1 = sc.nextInt();
-		int n2 = sc.nextInt():
+		int n2 = sc.nextInt();
 		
 		// calling fucntion to print output
 		int gcd = getGcd(n1, n2);

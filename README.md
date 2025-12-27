@@ -158,8 +158,8 @@ BridgeLabz-Training/
 - Solved LeetCode problems.
 
 🔗 **Code Link:**  
-👉 [Day 10 – Classes and object](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
-    [Leetcode problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+👉 [Day 10 – Constructors](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+   and [Leetcode problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
 
 
 

@@ -159,7 +159,7 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 10 – Classes and object](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
-👉 [Day 10 – Leetcode problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+    [Leetcode problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
 
 
 

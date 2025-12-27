@@ -130,3 +130,15 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 8 – Scenario based questions](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 10 – Array Practice (LeetCode)  
+**(Date: 27-Dec-2025)**
+
+- Practiced array-based problems on LeetCode.
+- Improved problem-solving skills using arrays.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Array practice](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)

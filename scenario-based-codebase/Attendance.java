@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Attendacen {
+public class Attendance{
 	public static void main(String[] args){
 		// creating scanner class object and taking user input
 		Scanner sc = new Scanner(System.in);

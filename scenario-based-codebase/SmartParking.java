@@ -49,7 +49,7 @@ public class SmartParking{
 					break;
 					
 				case 3 : 
-					System.out.println("Thank you for using smart parking system");
+					idx--;
 					break;
 					
 				default : 

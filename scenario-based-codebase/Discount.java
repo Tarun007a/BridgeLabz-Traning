@@ -17,6 +17,7 @@ public class GuessNumber{
 			sum += sc.nextInt();
 		}
 		
+		// printing the results
 		if(sum >= 1000){
 			System.out.println("Total cost " + sum);
 			System.out.println("Discount " + (sum/20));

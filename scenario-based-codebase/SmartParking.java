@@ -34,7 +34,10 @@ public class SmartParking{
 		// using infinite while loop		
 		while(true){
 			// taking user input
-			System.out.print("Enter 1 for park, 2 for show occupancy, 3 for exit : ");
+			System.out.println("\nEnter 1 for park");
+			System.out.println("Enter 2 for slot occupancy");
+			System.out.println("Enter 3 to exit");
+			System.out.println("Enter 4 to exit the smart parking system");
 			int choice = sc.nextInt();
 			
 			// using switch case
@@ -50,7 +53,12 @@ public class SmartParking{
 					
 				case 3 : 
 					idx--;
+					idx = Math.max(idx, 0);
 					break;
+					
+				case 4 :
+					System.out.print("Thank you for using smart parking system");
+					return;
 					
 				default : 
 					System.out.println("Enter a valid input");

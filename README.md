@@ -154,4 +154,4 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 8 – Scenario based questions](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+👉 [Day 11 – Scenario based questions](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)

@@ -142,3 +142,16 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 10 – Array practice](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 11 – Scenario based questions
+**(Date: 29-Dec-2025)**
+
+- Practiced real world problems.
+- Improved understanding of Input handling and Real world problems.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 8 – Scenario based questions](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)

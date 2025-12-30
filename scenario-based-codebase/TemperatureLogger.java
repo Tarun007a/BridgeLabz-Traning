@@ -11,6 +11,7 @@ public class TemperatureLogger{
 		int max = 0;
 		int min = 0;
 		
+		// taking input and also recording the minimum and maximum temperature
 		for(int i = 0; i < n; i++){
 			System.out.print("Enter temperature on day " + (i+1) + " : ");
 			temperature[i] = sc.nextDouble();
@@ -24,6 +25,7 @@ public class TemperatureLogger{
 		// calculating average
 		avg = sum/7;
 		
+		// printing the results
 		System.out.println("The average temperature is " + avg);
 		System.out.println("The maximum temperature was on day " + (max+1) + " and the maximum temperature was " + temperature[max]);
 		System.out.println("The minimum temperature was on day " + (min+1) + " and the minimum temperature was " + temperature[min]);

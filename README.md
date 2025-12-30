@@ -23,3 +23,17 @@
 
 🔗 **Code Link:**  
 👉 [Day 10 – Constructors](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
+
+---
+
+### 🗓 Day 11 – this, static, final Keywords & instanceof Operator  
+**(Date: 29-Dec-2025)**
+
+- Studied the usage of `this` keyword in Java.
+- Learned the purpose and behavior of `static` and `final` keywords.
+- Practiced programs demonstrating `static` variables and methods.
+- Implemented examples using the `instanceof` operator.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords

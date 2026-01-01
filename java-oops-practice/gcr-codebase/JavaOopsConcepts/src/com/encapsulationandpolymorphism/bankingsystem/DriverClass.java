@@ -3,7 +3,6 @@ package com.encapsulationandpolymorphism.bankingsystem;
 import java.util.*;
 
 public class DriverClass {
-
     public static void main(String[] args) {
         List<BankAccount> list = new ArrayList<>();
         list.add(new SavingsAccount(0, "Aman", 50000));

@@ -4,6 +4,7 @@ import java.util.*;
 
 public class DriverClass {
     public static void main(String[] args) {
+    	// storing in array list of Vehicle
         List<Vehicle> list = new ArrayList<>();
         list.add(new Car(0, 2000, "Car"));
         list.add(new Bike(1, 800, "bike"));

@@ -6,7 +6,7 @@ public class Bike extends Vehicle {
         super(vehicleNumber, "Bike", rentalRate, insurancePolicy);
     }
 
-    // rental cost
+    // rental cost on the basis of days
     public int calculateRentalCost(int days) {
         return (getRentalRate() * days);
     }

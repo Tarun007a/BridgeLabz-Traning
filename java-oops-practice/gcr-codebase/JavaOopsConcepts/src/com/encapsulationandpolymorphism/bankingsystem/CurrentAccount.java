@@ -16,7 +16,7 @@ public class CurrentAccount extends BankAccount {
     }
 
     public int calculateLoanEligibility() {
-        return (int)(getBalance() * 3);
+        return (int)(getBalance() * 10);
     }
 }
 

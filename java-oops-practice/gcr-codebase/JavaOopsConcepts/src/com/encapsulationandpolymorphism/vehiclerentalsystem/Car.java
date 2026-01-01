@@ -1,7 +1,6 @@
 package com.encapsulationandpolymorphism.vehiclerentalsystem;
 
 public class Car extends Vehicle {
-
     // constructor
     public Car(int vehicleNumber, int rentalRate, String insurancePolicy) {
         super(vehicleNumber, "Car", rentalRate, insurancePolicy);

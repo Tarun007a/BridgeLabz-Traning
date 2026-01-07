@@ -161,5 +161,114 @@ BridgeLabz-Training/
 👉 [Day 10 – Constructors](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/level1)
    and [Leetcode problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
 
+---
+
+### 🗓 Day 11 – Java Keywords & Problem Solving  
+**(Date: 29-Dec-2025)**
+
+- Practiced Java keywords: `this`, `static`, `final`.
+- Solved real-world scenario-based problems.
+- Increased problem solving skills.
+
+🔗 **Code Links:**  
+👉 [Scenario Based](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)  
+👉 [Keywords](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/javakeywords)
+
+---
+
+### 🗓 Day 12 – Object Modeling, LeetCode & Scenarios  
+**(Date: 30-Dec-2025)**
+
+- Studied object modeling and UML diagrams.
+- Implemented association, aggregation, and composition.
+- Solved LeetCode problems.
+- Practiced multiple scenario-based programs.
+
+🔗 **Code Links:**  
+👉 [Object Modeling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodeling/level1)  
+👉 [Scenario Based](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)  
+👉 [LeetCode](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 13 – Inheritance & Core Java Scenarios  
+**(Date: 31-Dec-2025)**
+
+- Practiced inheritance and polymorphism concepts.
+- Implemented real-world problems using loops and switch-case.
+- Solved LeetCode problems.
+
+🔗 **Code Links:**  
+👉 [Inheritance](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+👉 [Scenario Based](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/scenario-based-codebase)
+👉 [LeetCode](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 14 – Encapsulation, Abstraction & Interfaces  
+**(Date: 01-Jan-2026)**
+
+- Studied encapsulation, abstraction, interfaces, and polymorphism.
+- Solved LeetCode problems.
 
 
+🔗 **Code Links:**  
+👉 [Encapsulation & Abstraction](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+👉 [LeetCode](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)
+
+---
+
+### 🗓 Day 15 – OOPS Scenarios, LeetCode & Linked List  
+**(Date: 02-Jan-2026)**
+
+- Designed multiple OOPS-based systems.
+- Solved LeetCode problems.
+- Studied linked list types and operations.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)  
+👉 [LeetCode](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)  
+👉 [Linked List](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/com/linkedlist)
+
+---
+
+### 🗓 Day 16 – Advanced OOPS, LeetCode & Stack/Queue  
+**(Date: 03-Jan-2026)**
+
+- Implemented advanced OOPS case studies.
+- Practiced Stack, Queue.
+- Understood concept of hashing.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)  
+👉 [Stack & Queue](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/com/stackandqueue)  
+👉 [Hashing](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/com/hashmapandhashset)
+
+---
+
+### 🗓 Day 17 – OOPS Applications & Sorting  
+**(Date: 05-Jan-2026)**
+
+- Designed real-world OOPS applications.
+- Implemented sorting algorithms.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)  
+👉 [Sorting](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/com/sortingalgorithm)
+
+---
+
+### 🗓 Day 18 – Complex OOPS & Searching  
+**(Date: 06-Jan-2026)**
+
+- Implemented complex OOPS case studies.
+- Practiced searching algorithms and file handling.
+- Solved leetcode problem.
+
+🔗 **Code Links:**  
+👉 [OOPS Scenarios](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)  
+👉 [Searching & File Handling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/gcr-codebase/dsapractice/src/com/searchingalgorithms)
+👉 [LeetCode](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase)  
+
+
+---

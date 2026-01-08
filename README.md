@@ -272,3 +272,19 @@ BridgeLabz-Training/
 
 
 ---
+
+### 🗓 Day 19 – LeetCode Practice & Scenario Based 
+**(Date: 07-Jan-2026)**
+
+- Solved LeetCode problems.
+- Scenario-based problems:
+  - LoanBuddy – Loan Approval Automation
+  - BookBazaar – Digital Bookstore System
+  - ParkEase – Smart Parking Management System
+
+- Committed and pushed all changes successfully.
+
+👉 [Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com).
+
+---

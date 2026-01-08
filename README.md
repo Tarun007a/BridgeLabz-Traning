@@ -228,6 +228,18 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉  [Day 16 - Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
+👉  [Day 18 - Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
+
+---
+
+### 🗓 Day 19 – LeetCode Practice  
+**(Date: 07-Jan-2026)**
+
+- Solved LeetCode problems:
+- Improved problem-solving skills.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉  [Day 19 - Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
 
 ---

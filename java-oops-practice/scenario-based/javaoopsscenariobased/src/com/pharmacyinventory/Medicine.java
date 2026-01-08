@@ -38,8 +38,13 @@ public abstract class Medicine implements ISellable{
 		this.quantity = quantity;
 	}
 	
+	private double getDiscount(int quantity) {
+		if(quantity > 10) return price * 0.2;
+		return price * 0.1;
+	}
+	
 	public double sell(int quantity) {
 		if(!checkExpiry() || this.quantity < quantity) return -1;
-		return quantity * price;
+		return quantity * price - getDiscount(quantity);
 	}
 }

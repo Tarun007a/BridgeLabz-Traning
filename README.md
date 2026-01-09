@@ -177,3 +177,19 @@
 👉 [Day 19 - Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
 ---
+
+### 🗓 Day 20 – OOPS Scenario Case Studies  
+**(Date: 08-Jan-2026)**
+
+- Practiced advanced real-world OOPS system designs with business rules and calculations.
+- Applied **inheritance, interfaces, encapsulation, polymorphism, constructors, and access control**.
+
+- Scenario-based problems:
+ - MediStore – Pharmacy Inventory & Sales System
+ - TourMate – Travel Itinerary Planner
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 20 - Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com/tourmate)
+
+---

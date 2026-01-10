@@ -285,6 +285,19 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 👉 [Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
-👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com).
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+---
+
+### 📅 Day 20 – Practiced Scenario-based Problems
+**(Date: 08-Jan-2026)**
+
+- Solved Scenario based problems
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
 ---

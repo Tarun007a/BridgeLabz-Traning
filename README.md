@@ -185,11 +185,26 @@
 - Applied **inheritance, interfaces, encapsulation, polymorphism, constructors, and access control**.
 
 - Scenario-based problems:
- - MediStore – Pharmacy Inventory & Sales System
- - TourMate – Travel Itinerary Planner
+  - MediStore – Pharmacy Inventory & Sales System
+  - TourMate – Travel Itinerary Planner
+
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 20 - Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com/tourmate)
+👉 [Day 20 - Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+---
+
+### 📅 Day 21 – Practiced Scenario-based Problems
+**(Date: 09-Jan-2026)**
+
+- Solved Scenario based problems
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
 ---

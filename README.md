@@ -52,3 +52,16 @@
 
 ---
 
+### 🗓 Day 22 –  Practiced Scenario-based Problems
+**(Date: 10-Jan-2026)**
+
+- Solved Scenario based problems
+  - BookShelf – Library Organizer 
+  - BrowserBuddy – Tab History Manager
+  - AmbulanceRoute – Emergency Patient Navigation
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---

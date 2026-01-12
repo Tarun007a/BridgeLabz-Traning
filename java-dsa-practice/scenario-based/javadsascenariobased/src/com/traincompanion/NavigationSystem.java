@@ -19,6 +19,38 @@ public class NavigationSystem {
 		temp.next = compartment;
 	}
 	
+	public void removeCompartment(String name) {
+		if(head == null) {
+			System.out.println("Please add compartment first");
+			return;
+		}
+		
+		if(head.name.equals(name)) {
+			System.out.println("Cannot remove the compartment");
+		}
+		
+		Compartment curr = head;
+		
+		while(curr.prev != null) curr = curr.prev;
+		
+		while(curr != null && !curr.name.equals(name)) curr = curr.next;
+		
+		if(curr == null) return;
+		
+		if(curr.prev == null) {
+			curr.next.prev = null;
+			return;
+		}
+		
+		if(curr.next == null) {
+			curr.prev.next = null;
+			return;
+		}
+		
+		curr.next.prev = curr.prev;
+		curr.prev.next = curr.next;
+	}
+	
 	public void showAdjecentCompartment() {
 		if(head == null){
 			System.out.println("You are not on any compartment");

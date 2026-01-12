@@ -24,6 +24,10 @@ public class DriverClass {
 		system.moveToPrevious();
 		System.out.println();
 		
+		system.removeCompartment("pantry");
+		system.showAdjecentCompartment();
+		
+		System.out.println();
 		system.showAdjecentCompartment();
 	}
 }

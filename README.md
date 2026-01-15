@@ -80,3 +80,17 @@
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---
+
+### 🗓 Day 24 –  Practiced Scenario-based Problems
+**(Date: 13-Jan-2026)**
+
+- Solved Scenario based problems
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---

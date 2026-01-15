@@ -78,6 +78,8 @@ BridgeLabz-Training/
 
 ---
 
+## Week 2 – Core Java & Introduction to OOPs ##
+
 ### 🗓 Day 5 – Strings
 **(Date: 20-Dec-2025)**
 
@@ -163,6 +165,8 @@ BridgeLabz-Training/
 
 ---
 
+## Week 3 – OOPs Concepts & Data Structures Basics ##
+
 ### 🗓 Day 11 – Java Keywords & Problem Solving  
 **(Date: 29-Dec-2025)**
 
@@ -246,6 +250,8 @@ BridgeLabz-Training/
 
 ---
 
+## Week 4 – DSA & Advanced Java Concepts ##
+
 ### 🗓 Day 17 – OOPS Applications & Sorting  
 **(Date: 05-Jan-2026)**
 
@@ -316,6 +322,8 @@ BridgeLabz-Training/
 
 ---
 
+## Week 5 – Scenario Based Questions ##
+
 ### 🗓 Day 22 –  Practiced Scenario-based Problems
 **(Date: 10-Jan-2026)**
 
@@ -337,6 +345,7 @@ BridgeLabz-Training/
   - HomeNest – Smart Home Device Manager
   - BudgetWise – Personal Finance Tracker
   - GameBox – Mobile Game Distribution Platform
+
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
 - Solved Scenario based problems for dsa
@@ -348,3 +357,25 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---
+
+### 🗓 Day 24 –  Practiced Scenario-based Problems
+**(Date: 13-Jan-2026)**
+
+- Solved Scenario based problems for oops
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary – Design and implement a Bird Sanctuary system
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+- Solved Scenario based problems for dsa
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---

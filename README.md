@@ -243,3 +243,16 @@ BridgeLabz-Training/
 👉  [Day 19 - Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
 
 ---
+
+### 🗓 Day 25 – LeetCode Practice  
+**(Date: 15-Jan-2026)**
+
+- Solved LeetCode problems:
+- Improved problem-solving skills.
+  - leetcode - 1266
+  - leetcode - 2943
+
+🔗 **Code Link:**  
+👉  [Leetcode Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/core-java-practice/leet-code-codebase).
+
+---

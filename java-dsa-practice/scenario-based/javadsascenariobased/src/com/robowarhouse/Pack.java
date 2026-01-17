@@ -1,0 +1,15 @@
+package com.robowarhouse;
+
+public class Pack {
+	String name;
+	int weight;
+	
+	public Pack(String name, int weight) {
+		this.name = name;
+		this.weight = weight;
+	}
+	
+	public String toString() {
+		return name + " " + weight;
+	}
+}

@@ -110,3 +110,46 @@
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---
+
+### 🗓 Day 26 –  Practiced Scenario-based Problems
+**(Date: 16-Jan-2026)**
+
+- Solved Scenario based problems
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  - CropMonitor – Sensor Data Ordering (Quick Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---
+
+### 🗓 Day 27 –  Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems
+  - ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  - FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+  - IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  - SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com	/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---
+
+### 🗓 Day 28 –  Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problems
+  - EduResults – Rank Sheet Generator (Merge Sort)	
+  - FlashDealz – Product Sorting by Discount (Quick Sort)
+  - FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com	/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---

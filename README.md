@@ -420,7 +420,7 @@ BridgeLabz-Training/
 - Studied the concept of Generics in Java.
 - Learned generic classes, generic methods, and bounded types.
 
-👉 [Scenario Based Problems Generics](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
+👉 [Generics](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
 
 - Solved Scenario based problems for OOPS.
 

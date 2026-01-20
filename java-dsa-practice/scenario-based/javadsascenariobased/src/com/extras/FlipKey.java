@@ -12,13 +12,14 @@ public class FlipKey {
 			
 			// check valid number
 			if(ch >= 97 && ch <= 122) {
-				if(ch%2 == 1) {
-					if(isEven) result.append((char)(ch-32));
-					else result.append(ch);
-					isEven = !isEven;
-				}
+				if(ch%2 == 1) result.append(ch);
 			}
 			else return "";
+		}
+		
+		for(int i = 0; i < result.length(); i++) {
+			if(isEven) result.setCharAt(i, (char)(result.charAt(i)-32));
+			isEven = !isEven;
 		}
 		return result.reverse().toString();
 	}

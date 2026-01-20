@@ -235,3 +235,31 @@
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
 ---
+
+### 📅 Day 27 – Practiced Scenario-based Problems
+**(Date: 17-Jan-2026)**
+
+- Solved Scenario based problems
+  - To compare line segments
+  - Bag-n-Ball Organizer
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+---
+
+### 📅 Day 28 – Practiced Scenario-based Problems
+**(Date: 19-Jan-2026)**
+
+- Solved Scenario based problem for Address Book System
+  - Adds a new contact (with validation for duplicates)
+  - Edits and delete an existing contact by name
+  - Searches contacts by city or state
+  - Displays all contacts sorted alphabetically
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+---

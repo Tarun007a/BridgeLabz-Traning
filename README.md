@@ -136,7 +136,7 @@
 
 - Committed and pushed all changes successfully.
 
-👉 [Scenario Based Problems](https://github.com	/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---
 
@@ -150,6 +150,6 @@
 
 - Committed and pushed all changes successfully.
 
-👉 [Scenario Based Problems](https://github.com	/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---

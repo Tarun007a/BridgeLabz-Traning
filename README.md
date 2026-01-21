@@ -153,3 +153,34 @@
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---
+
+### 🗓 Day 29 –  Practiced Scenario-based Problems
+**(Date: 20-Jan-2026)**
+
+- Solved Scenario based problems
+  - MovieTime – Theater Show Listings (Insertion Sort)	
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+  - Flip keys.
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---
+
+### 🗓 Day 30 –  Practiced Scenario-based Problems
+**(Date: 21-Jan-2026)**
+
+- Solved Scenario based problems
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)	
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+  - University's Digital Record System
+  - E-Commerce Product Inventory
+  - Music App - Organize Songs by Track ID
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---

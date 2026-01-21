@@ -341,14 +341,14 @@ BridgeLabz-Training/
 ### 🗓 Day 23 –  Practiced Scenario-based Problems
 **(Date: 12-Jan-2026)**
 
-- Solved Scenario based problems for oops
+- Solved Scenario based problems on oops
   - HomeNest – Smart Home Device Manager
   - BudgetWise – Personal Finance Tracker
   - GameBox – Mobile Game Distribution Platform
 
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
-- Solved Scenario based problems for dsa
+- Solved Scenario based problems on dsa
   - CallCenter – Customer Queue Manager (Queue + HashMap)
   - TrainCompanion – Compartment Navigation System (Doubly Linked List)
   - TextEditor – Undo/Redo Functionality (Stack)
@@ -363,13 +363,13 @@ BridgeLabz-Training/
 ### 🗓 Day 24 –  Practiced Scenario-based Problems
 **(Date: 13-Jan-2026)**
 
-- Solved Scenario based problems for oops
+- Solved Scenario based problems on oops
   - PayXpress – Utility Bill Payment System
   - Bird Sanctuary – Design and implement a Bird Sanctuary system
 
 👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
-- Solved Scenario based problems for dsa
+- Solved Scenario based problems on dsa
   - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
   - ParcelTracker – Delivery Chain Management (Singly Linked List)
   - ExamProctor – Online Exam Review System (Stack + HashMap + Functions)
@@ -380,7 +380,7 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 25 –  Practiced Scenario-based Problems for DSA
+### 🗓 Day 25 –  Practiced Scenario-based Problems on DSA
 **(Date: 15-Jan-2026)**
 
 - Solved Scenario based problems
@@ -396,10 +396,10 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 26 –  Practiced Scenario-based Problems for DSA
+### 🗓 Day 26 –  Practiced Scenario-based Problems on DSA
 **(Date: 16-Jan-2026)**
 
-- Solved Scenario based problems for DSA
+- Solved Scenario based problems on DSA
   - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
   - CinemaHouse – Movie Time Sorting (Bubble Sort)
   - CropMonitor – Sensor Data Ordering (Quick Sort)
@@ -413,7 +413,7 @@ BridgeLabz-Training/
 ### 🗓 Day 27 –  Practiced Scenario-based Problems
 **(Date: 17-Jan-2026)**
 
-- Solved Scenario based problems for DSA.
+- Solved Scenario based problems on DSA.
 
 👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
@@ -422,7 +422,7 @@ BridgeLabz-Training/
 
 👉 [Generics](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/generics)
 
-- Solved Scenario based problems for OOPS.
+- Solved Scenario based problems on OOPS.
 
 👉 [Scenario Based Problems OOPS](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
 
@@ -431,7 +431,7 @@ BridgeLabz-Training/
 ### 🗓 Day 28 –  Practiced Scenario-based Problems
 **(Date: 19-Jan-2026)**
 
-- Solved Scenario based problems for DSA.
+- Solved Scenario based problems on DSA.
 
 👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
@@ -440,8 +440,39 @@ BridgeLabz-Training/
 
 👉 [Collection Framework](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/collections)
 
-- Solved Scenario based problems for OOPS.
+- Solved Scenario based problems on OOPS.
 
 👉 [Scenario Based Problems OOPS](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-oops-practice/java-oops-practice/scenario-based/javaoopsscenariobased/src/com)
+
+---
+
+### 🗓 Day 29 –  Practiced Scenario-based Problems
+**(Date: 20-Jan-2026)**
+
+- Solved Scenario based problems on DSA
+  - MovieTime – Theater Show Listings (Insertion Sort)	
+  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  - GamerZone – High Score Ranking System (Quick Sort)
+  - Flip keys.
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+
+---
+
+### 🗓 Day 30 –  Practiced Scenario-based Problems
+**(Date: 21-Jan-2026)**
+
+- Solved Scenario based problems on DSA
+  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)	
+  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+  - University's Digital Record System
+  - E-Commerce Product Inventory
+  - Music App - Organize Songs by Track ID
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
 
 ---

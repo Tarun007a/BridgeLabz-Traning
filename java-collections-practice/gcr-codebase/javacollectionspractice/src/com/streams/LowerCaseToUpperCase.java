@@ -20,13 +20,18 @@ public class LowerCaseToUpperCase {
 			while((ch = reader.read()) != -1) {
 				if(ch >= 65 && ch <= 90) ch += 32;
 				fileOutputStream.write(ch);
-				
-				System.out.println(ch);
 			}
 			System.out.println("Copied successfully!");
 		}
 		catch (Exception e) {
 			System.out.println(e.getMessage());
+		}
+		finally {
+			try {
+				fileOutputStream.close();
+			} catch (IOException e) {
+				System.out.println(e.getMessage());
+			}
 		}
 	}
 }

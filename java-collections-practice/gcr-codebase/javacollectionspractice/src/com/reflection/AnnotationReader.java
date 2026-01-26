@@ -1,0 +1,9 @@
+package com.reflection;
+
+
+public class AnnotationReader {
+    public static void main(String[] args) {
+        Author author = Book.class.getAnnotation(Author.class);
+        System.out.println(author.name());
+    }
+}

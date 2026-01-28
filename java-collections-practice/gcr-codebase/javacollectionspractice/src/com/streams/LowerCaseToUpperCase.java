@@ -6,7 +6,7 @@ public class LowerCaseToUpperCase {
 	public static void main(String[] args) {
 		File inputFile = new File("Name.txt");
 		File outputFile = new File("Result.txt");
-		FileOutputStream fileOutputStream;
+		FileOutputStream fileOutputStream = null;
 		
 		if(!inputFile.exists()) {
 			System.out.println("Input file does not exist!");

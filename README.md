@@ -50,7 +50,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 30 – Exception Handling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice)
+👉 [Day 30 – Exception Handling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
 
 ---
 
@@ -64,21 +64,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 31 – Regex and JUnit](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice)
-
----
-
-### 🗓 Day 31 – Regex and JUnit  
-**(Date: 22-Jan-2026)**
-
-- Studied Regular Expressions (Regex) for pattern matching in Java.
-- Practiced using regex for validation and text processing.
-- Learned the basics of JUnit for unit testing in Java.
-- Implemented test cases using JUnit annotations and assertions.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 31 – Regex and JUnit](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com)
+👉 [Day 31 – Regex and JUnit](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src)
 
 ---
 
@@ -92,7 +78,7 @@
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 32 – Annotations and Reflection](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src)
+👉 [Day 32 – Annotations and Reflection](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com)
 
 ---
 

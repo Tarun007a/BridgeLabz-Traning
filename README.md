@@ -446,33 +446,115 @@ BridgeLabz-Training/
 
 ---
 
-### 🗓 Day 29 –  Practiced Scenario-based Problems
+### 🗓 Day 29 – Practiced Scenario-based Problems & Java Streams  
 **(Date: 20-Jan-2026)**
 
-- Solved Scenario based problems on DSA
-  - MovieTime – Theater Show Listings (Insertion Sort)	
-  - FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
-  - GamerZone – High Score Ranking System (Quick Sort)
-  - Flip keys.
-
+- Solved scenario-based problems on DSA using sorting techniques (Insertion, Merge, Quick Sort).
+- Studied Java Streams for efficient data processing.
+- Learned file handling using Java Streams.
 - Committed and pushed all changes successfully.
 
-👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)  
+👉 [Java Streams](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/streams)
 
 ---
 
-### 🗓 Day 30 –  Practiced Scenario-based Problems
+### 🗓 Day 30 – Practiced Scenario-based Problems & Exception Handling  
 **(Date: 21-Jan-2026)**
 
-- Solved Scenario based problems on DSA
-  - TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)	
-  - MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
-  - University's Digital Record System
-  - E-Commerce Product Inventory
-  - Music App - Organize Songs by Track ID
+- Solved scenario-based problems on DSA involving sorting and data organization use cases.
+- Studied Java Exception Handling concepts and exception hierarchy.
+- Practiced handling exceptions using try-catch-finally blocks.
+- Implemented custom exception handling using throw and throws.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)  
+👉 [Exception Handling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com/exceptionhandling)
+
+---
+
+### 🗓 Day 31 – Regex and JUnit  
+**(Date: 22-Jan-2026)**
+
+- Studied Regular Expressions (Regex) for pattern matching in Java.
+- Practiced using regex for validation and text processing.
+- Learned the basics of JUnit for unit testing in Java.
+- Implemented test cases using JUnit annotations and assertions.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 31 – Regex and JUnit](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src)
+
+---
+
+### 🗓 Day 32 – Annotations and Reflection  
+**(Date: 23-Jan-2026)**
+
+- Studied Java Annotations and their purpose.
+- Learned built-in and custom annotations.
+- Understood Java Reflection API and its use cases.
+- Practiced accessing fields, methods, and constructors using reflection.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 32 – Annotations and Reflection](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/gcr-codebase/javacollectionspractice/src/com)
+
+---
+
+### 🗓 Day 34 – Practiced Scenario-based Problems  
+**(Date: 27-Jan-2026)**
+
+- Solved Scenario based problems
+  - ResumeAnalyzer – Resume data handling using I/O Streams, Regex, Collections, and Exception Handling
+  - TravelLog – File handling with Serialization, Regex-based search, and Collection-based summarization
+  - FeedbackGuru – Text file handling using I/O, Regex extraction, Generics, and Exception Handling
+  - CodeRepoCleaner – File scanning and organization using I/O, Regex validation, Streams, and Collections
+  - ExamScanner – CSV file handling, Regex-based validation, Generics, and result processing using Collections
 
 - Committed and pushed all changes successfully.
 
-👉 [Scenario Based Problems DSA](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-dsa-practice/java-dsa-practice/scenario-based/javadsascenariobased/src/com)
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/scenario-based/javacollectionsscenariobased/src/com)
+
+---
+
+### 🗓 Day 35 – Scenario-based Problems & CSV Data Handling  
+**(Date: 28-Jan-2026)**
+
+- Solved real-world scenario-based problems involving CSV processing, Regex validation, Collections, Generics, and Custom Exception Handling.
+- Studied the structure and format of CSV files.
+- Learned reading and processing CSV data using FileReader and BufferedReader.
+- Practiced parsing, validation, and error handling for CSV records.
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-collections-practice/java-collections-practice/scenario-based/javacollectionsscenariobased/src/com)  
+👉 [CSV Data Handling](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com/csvdatahandling)
+
+---
+
+### 🗓 Day 36 – JSON Data Handling 
+**(Date: 29-Jan-2026)**
+
+- Studied JSON data structure and validation concepts.
+- Learned converting CSV data into JSON format.
+- Practiced validating JSON data generated from CSV files.
+- Implemented error handling for invalid or inconsistent data.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 36 – JSON Data Handling (CSV to JSON Validation)](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/javaiostreamspractice/src/com/jsondata)
+
+---
+
+### 🗓 Day 37 – Practiced Scenario-based Problems  
+**(Date: 30-Jan-2026)**
+
+- Solved Scenario based problems
+  - HealthCheckPro – Annotation-based API metadata handling using Reflection and auto documentation generation
+  - MarkMate – CSV file handling with data processing and JSON report generation
+  - EventTracker – Annotation-driven event handling using Reflection and structured JSON logging
+
+- Committed and pushed all changes successfully.
+
+👉 [Scenario Based Problems](https://github.com/Tarun007a/BridgeLabz-Traning/tree/java-iostreams-practice/java-iostreams-practice/scenario-based/javaiostreamsscenariobased/src/javaiostreamsscenariobased/com)
 
 ---

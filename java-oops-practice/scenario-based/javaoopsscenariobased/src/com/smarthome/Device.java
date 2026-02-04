@@ -1,4 +1,4 @@
-package smarthome;
+package com.smarthome;
 
 public abstract class Device implements Controllable {
     protected int deviceId;

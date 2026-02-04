@@ -1,4 +1,4 @@
-package ewallet;
+package com.ewallet;
 
 public class PersonalWallet extends Wallet {
     public PersonalWallet(double referralBonus) {

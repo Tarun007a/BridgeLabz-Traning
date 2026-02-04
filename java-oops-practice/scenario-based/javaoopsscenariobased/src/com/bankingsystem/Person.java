@@ -1,4 +1,4 @@
-package bankingsystem;
+package com.bankingsystem;
 
 public class Person{
 	public String name;

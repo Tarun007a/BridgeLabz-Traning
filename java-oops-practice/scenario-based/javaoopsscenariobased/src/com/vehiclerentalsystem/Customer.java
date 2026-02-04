@@ -1,4 +1,4 @@
-package vehiclerentalsystem;
+package com.vehiclerentalsystem;
 
 public class Customer {
     private int customerId;

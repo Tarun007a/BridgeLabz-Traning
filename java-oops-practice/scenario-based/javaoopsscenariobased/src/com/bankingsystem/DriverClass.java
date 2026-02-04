@@ -1,4 +1,4 @@
-package bankingsystem;
+package com.bankingsystem;
 
 public class DriverClass{
 	public static void main(String[] args){

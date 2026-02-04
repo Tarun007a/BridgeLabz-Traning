@@ -1,7 +1,5 @@
 package com.fitnesstracker;
 
-import com.sun.tools.classfile.StackMapTable_attribute.same_locals_1_stack_item_frame;
-
 public class DriverClass {
     public static void main(String[] args) {
         UserProfile user = new UserProfile("Aman", 22, 50, "Goal 1", 2500);

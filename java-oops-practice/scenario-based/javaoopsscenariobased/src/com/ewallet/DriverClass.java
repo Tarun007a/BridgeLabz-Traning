@@ -1,4 +1,4 @@
-package ewallet;
+package com.ewallet;
 
 public class DriverClass {
     public static void main(String[] args) {

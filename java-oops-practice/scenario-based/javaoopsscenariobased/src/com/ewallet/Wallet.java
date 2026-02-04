@@ -1,4 +1,4 @@
-package ewallet;
+package com.ewallet;
 
 public abstract class Wallet implements Transferrable {
     private double balance;

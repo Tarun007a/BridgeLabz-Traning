@@ -1,4 +1,4 @@
-package ewallet;
+package com.ewallet;
 
 public class Transaction {
     private String type;

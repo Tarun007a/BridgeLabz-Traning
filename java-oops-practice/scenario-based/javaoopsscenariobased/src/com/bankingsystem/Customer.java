@@ -1,4 +1,4 @@
-package bankingsystem;
+package com.bankingsystem;
 
 public class Customer extends Person{
 	public int custId;

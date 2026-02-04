@@ -1,4 +1,4 @@
-package smarthome;
+package com.smarthome;
 
 public interface Controllable {
     void turnOn();

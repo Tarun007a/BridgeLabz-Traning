@@ -1,4 +1,4 @@
-package universitysystem;
+package com.universitysystem;
 
 public class Undergraduate extends Student implements Graded {
     public Undergraduate(int studentId, String name) {

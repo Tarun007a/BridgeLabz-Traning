@@ -1,4 +1,4 @@
-package universitysystem;
+package com.universitysystem;
 
 public class Course {
     private int courseId;

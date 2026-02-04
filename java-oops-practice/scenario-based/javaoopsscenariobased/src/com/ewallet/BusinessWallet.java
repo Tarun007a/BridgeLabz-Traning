@@ -1,4 +1,4 @@
-package ewallet;
+package com.ewallet;
 
 public class BusinessWallet extends Wallet {
     private double taxRate = 0.02;

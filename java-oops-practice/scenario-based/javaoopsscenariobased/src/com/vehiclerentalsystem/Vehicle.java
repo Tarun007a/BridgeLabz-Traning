@@ -1,4 +1,4 @@
-package vehiclerentalsystem;
+package com.vehiclerentalsystem;
 
 public abstract class Vehicle implements Rentable {
     protected int vehicleId;

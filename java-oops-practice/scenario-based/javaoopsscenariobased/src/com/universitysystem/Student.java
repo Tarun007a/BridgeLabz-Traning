@@ -1,4 +1,4 @@
-package universitysystem;
+package com.universitysystem;
 
 public abstract class Student {
     private int studentId;

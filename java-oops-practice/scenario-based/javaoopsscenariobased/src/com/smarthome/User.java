@@ -1,4 +1,4 @@
-package smarthome;
+package com.smarthome;
 
 public class User {
     private int userId;

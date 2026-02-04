@@ -1,4 +1,4 @@
-package vehiclerentalsystem;
+package com.vehiclerentalsystem;
 
 public class Bike extends Vehicle {
     public Bike(int vehicleId, String brand) {

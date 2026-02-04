@@ -1,4 +1,4 @@
-package smarthome;
+package com.smarthome;
 
 public class Light extends Device {
     public Light(int deviceId, String deviceName) {

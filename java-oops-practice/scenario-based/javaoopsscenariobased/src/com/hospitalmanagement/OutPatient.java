@@ -1,4 +1,4 @@
-package hospitalmanagement;
+package com.hospitalmanagement;
 
 public class OutPatient extends Patient {
     private int visitCount;

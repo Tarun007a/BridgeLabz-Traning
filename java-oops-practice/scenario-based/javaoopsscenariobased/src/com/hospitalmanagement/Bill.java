@@ -1,4 +1,4 @@
-package hospitalmanagement;
+package com.hospitalmanagement;
 
 public class Bill implements Payable {
     private int baseAmount;

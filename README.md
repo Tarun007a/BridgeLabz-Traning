@@ -38,3 +38,45 @@
 👉 [Day 48 – MySQL Scenario Based](https://github.com/Tarun007a/BridgeLabz-Traning/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based)
 
 ---
+
+### 🗓 Day 49 – JDBC Practice  
+**(Date: 13-Feb-2026)**
+
+- Practiced establishing database connection using JDBC.
+- Performed basic CRUD operations using Statement and PreparedStatement.
+- Worked with ResultSet to retrieve data from database.
+- Handled SQL exceptions and proper resource closing.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 49 – JDBC Practice](https://github.com/Tarun007a/BridgeLabz-Traning/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/practice/src/main/java/hospitalmanagementsystem)
+
+---
+
+### 🗓 Day 50 – JDBC Practice  
+**(Date: 14-Feb-2026)**
+
+- Practiced executing queries using PreparedStatement.
+- Worked with batch operations and transaction handling.
+- Used commit and rollback for data consistency.
+- Explored ResultSet metadata and query execution flow.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 50 – JDBC Practice](https://github.com/Tarun007a/BridgeLabz-Traning/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/practice/src/main/java/hospitalmanagementsystem)
+
+---
+
+### 🗓 Day 51 – JDBC Practice  
+**(Date: 16-Feb-2026)**
+
+- Practiced calling stored procedures using CallableStatement.
+- Worked with batch operations and transaction handling.
+- Improved understanding of database connectivity flow.
+- Applied best practices for secure database operations.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 51 – JDBC Practice](https://github.com/Tarun007a/BridgeLabz-Traning/tree/mysql-jdbc-practice/mysql-jdbc-practice/JDBC/practice/src/main/java/hospitalmanagementsystem)
+
+---
